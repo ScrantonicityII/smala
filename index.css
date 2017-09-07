@@ -19,7 +19,8 @@ header {
 }
 
 div {
-	width: calc(50% - 40px);
+	display: inline-block;
+	width: calc(50% - 82px);
 	padding: 20px;
 	margin: 20px;
 	background-color: #9F9F9F;
