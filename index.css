@@ -19,11 +19,28 @@ header {
 }
 
 div {
+	position: relative;
 	display: inline-block;
 	width: calc(50% - 82px);
 	padding: 20px;
 	margin: 20px;
 	background-color: #9F9F9F;
+}
+
+.Right {
+	float: right;
+}
+
+.Left {
+	float: Left;
+}
+
+.Date {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	font-style: italic;
+	margin: 0;
 }
 
 div h1, h2 {
