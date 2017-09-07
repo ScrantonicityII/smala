@@ -25,6 +25,7 @@ div {
 	padding: 20px;
 	margin: 20px;
 	background-color: #9F9F9F;
+	min-width: 300px;
 }
 
 .Right {
